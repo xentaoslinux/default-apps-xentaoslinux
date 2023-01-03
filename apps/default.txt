@@ -1,0 +1,152 @@
+ Pembaharuan Paket Aplikasi :
+ Kategori "Acesssories"
+Icon	Aplikasi	Deskripsi
+	Alldeb Manager *Penambahan
+Versi: 1.2-2	Aplikasi untuk menginstall paket .alldeb.
+Sebuah paket yang berisi dependency
+dalam satu paket debian tersebut.
+Sangat praktis jika kita mau install paket secara offline.
+	Archive Manager *Penambahan
+Versi: 3.16.5	Aplikasi untuk membuat atau menekstrak
+arsip (Zip, Tar, dan Lain-lain).
+	Calculator  
+*Pembaharuan
+Versi: 3.18.3	Sebuah kalkulator.
+	Character Map *Pembaharuan
+Versi: 3.18.2	Sebuah alat untuk menyalin dan
+menyisipkan karakter khusus (misalnya aksentuasi) dengan mudah.
+	Disks  
+*Pembaharuan
+Versi: 3.18.3.1	Sebuah alat yang menunjukkan Anda
+bagaimana hard drive Anda dipartisi.
+	Document Viewer
+*Pembaharuan
+Versi: 1.6.1	Sebuah alat untuk melihat PDF dan dokumen Lainnya.
+	Files
+*Pembaharuan
+Versi: 3.6.4	Sebuah link untuk direktori Home di Nemo
+File Manager.
+
+Kategori "Graphics"
+Icon	Aplikasi	Deskripsi
+	Blender
+*Penambahan
+Versi: 2.76	Aplikasi 3D Model, Animasi dan Masih banyak Fitur menarik.
+	Color Picker 
+*Pembaharuan
+Versi: 2.2	Aplikasi Pemetik warna pada desktop. Sangat
+lengkap dengan berbagai fitur menarik.
+	GIMP Image Editor 
+*Pembaharuan
+Versi: 2.8.16	Aplikasi yang memungkinkan Anda untuk
+memperbaiki, merubah atau bahkan membuat
+gambar.
+	Inkscape 
+*Pembaharuan
+Versi:0.92.2	Aplikasi yang memungkinkan Anda untuk memperbaiki, merubah
+atau bahkan membuat gambar vector. Alternatif terbaik Linux bagi
+Corel Draw.
+	Pix 
+*Pembaharuan
+Versi: 1.6.2	Aplikasi untuk menata foto.
+	Simple Scan 
+*Pembaharuan
+Versi: 3.20.0	Aplikasi untuk menscan dokument dari
+perangkat scanner.
+
+Kategori "Internet"
+Icon	Aplikasi	Deskripsi
+	Dropbox 
+*Pembaharuan
+Versi: 2015.10.28	Sebuah aplikasi file cloud (Media Penyimpanan file di internet).
+	Filezilla 
+*Pembaharuan
+Versi: 3.15.0.2	Sebuah aplikasi client FTP manager.
+	Firefox Web Browser 
+*Pembaharuan
+Versi: 65.0.1	Sebuah peramban web.
+	Hexchat 
+*Pembaharuan
+Versi: 2.10.2	Aplikasi Chating Internet Relay Chat (IRC).
+	Thunderbird
+*Pembaharuan
+Versi: 60.5.1	Aplikasi Email Client yang menarik dengan berbagai fitur unggulan.
+	Transmission 
+*Pembaharuan
+Versi: 2.84	Aplikasi Torrent Client.
+	Uget Download Manager 
+*Pembaharuan
+Versi: 2.2.1	Sebuah aplikasi download manager.
+Interfacenya menarik dan berbagai fitur yang
+tersedia sangat membantu dalam urusan
+download-mendownload berkas.
+
+Kategori "Office"
+Icon	Aplikasi	Deskripsi
+	KBBI-Qt 
+*Pembaharuan
+Versi: 1.0-2	Aplikasi Kamus Digital Bahasa Indonesia.
+	LibreOffice 
+*Pembaharuan
+Versi: 5.4.3	General Starter untuk office suite ini.
+	LibreOffice Base
+*Pembaharuan
+Versi: 5.4.3	Aplikasi membuat dan mengelola databse .
+	LibreOffice Calc 
+*Pembaharuan
+Versi: 5.4.3	Aplikasi untuk Pengelola spreadsheet.
+	LibreOffice Draw 
+*Pembaharuan
+Versi: 5.4.3	Aplikasi untuk menggambar, Bagian dari Office Suite ini.
+	LibreOffice Impress 
+*Pembaharuan
+Versi: 5.4.3	Aplikasi untuk membuat presentasi dalam bentuk slide.
+	LibreOffice Math 
+*Pembaharuan
+Versi: 5.4.3	Aplikasi untuk membuat dan mengedit rumus matematika.
+	LibreOffice Writer
+*Pembaharuan
+Versi: 5.4.3	Aplikasi untuk Pengolah kata.
+
+Kategori "Programming"
+Icon	Aplikasi	Deskripsi
+	Bluefish Editor
+*Pembaharuan
+Versi: 2.2.10	Editor Teks dikhususkan untuk Pengembangan Web.
+	Geany
+*Pembaharuan
+Versi: 1.32	Editor Teks dikhususkan untuk Pengembangan Aplikasi. Mendukung banyak basaha pemrograman
+seperti C, C++, Ruby, python dan lain lain.
+
+Kategori "Sound & Video"
+	Brasero 
+*Pembaharuan
+Versi: 3.12.1	Sebuah aplikasi burning CD/DVD. Brasero juga
+bisa membuat CD audio dari file multimedia.
+	LMMS
+*Penambahan
+Versi: 3.3	Sebuah aplikasi workstation audio digital dengan berbagai fitur yang mumpuni.
+	OBS
+*Penambahan
+Versi: 22.0.2	Sebuah aplikasi streaming dan rekaman sumber terbuka dan gratis yang dikelola oleh Proyek OBS.
+	Openshot Video Editor
+*Penambahan
+Versi: 2.4.3	Sebuah aplikasi editor video gratis dan sumber terbuka dengan berbagai fitur menarik.
+	Rhythmbox 
+*Pembaharuan
+Versi: 3.3	Sebuah aplikasi musik untuk memutar radio
+online, streaming musik dari Internet dan
+layanan musik online dan mendengarkan
+koleksi file musik.
+	VLC Media Player 
+*Pembaharuan
+Versi: 2.2.2	Sebuah pemutar video, terkenal karena
+mampu memainkan hampir semua file video
+yang tersedia di Web.
+Kategori "Administration"
+	Bleachbit
+*Pembaharuan
+Versi: 1.10	Sebuah aplikasi pembersih ruang disk sumber terbuka dan bebas, pengelola privasi, dan pengoptimal sistem komputer.
+	Virtualbox
+*Penambahan
+Versi: 5.1.38	Sebuah aplikasi perangkat lunak virtualisasi, yang dapat digunakan untuk mengeksekusi sistem operasi "tambahan" di dalam sistem operasi "utama".
